@@ -9,4 +9,4 @@ def vokon_zählen(wort):
             konsonanten +=1
     print("Es gibt "+str( konsonanten )+" Konsonanten und "+str( vokale)+" Vokale.")
   
-print(vokon_zählen("sfhhioqwdnqomadoscpakü"))
+vokon_zählen("sfhhioqwdnqomadoscpakü")
